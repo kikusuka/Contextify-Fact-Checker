@@ -236,11 +236,11 @@ tests/                   unit tests for the two search modules
 
 ## Team
 
-**Boddupalli Pranav**: backend lead for the project **bpranav763@gmail.com**
-**Vutukuri Pranava Shesha Sai**: frontend developer **pranavasheshasai@gmail.com**
-**Suraj Batchu**: fact-check search developer **surajbatchu182@gmail.com**
-**Pramidi Janakiram**: regional news developer **pramidijanakiram@gmail.com**
-**Mogalluru Abhishek**: tester and demo lead **abhishekmogalluru@gmail.com**
+-**Boddupalli Pranav**: backend lead for the project **bpranav763@gmail.com**
+-**Vutukuri Pranava Shesha Sai**: frontend developer **pranavasheshasai@gmail.com**
+-**Suraj Batchu**: fact-check search developer **surajbatchu182@gmail.com**
+-**Pramidi Janakiram**: regional news developer **pramidijanakiram@gmail.com**
+-**Mogalluru Abhishek**: tester and demo lead **abhishekmogalluru@gmail.com**
 
 ## Licence
 
