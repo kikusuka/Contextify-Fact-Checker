@@ -50,7 +50,7 @@ app = Flask(__name__)
 CORS(app)  # lets the standalone index.html talk to localhost:5000
 
 # Set GEMINI_MODEL in the environment if this model name is retired.
-GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 
 STATUSES = ["Already fact-checked", "Corroborated", "Disputed", "No evidence found"]
 _cache = {}  # claim -> result. Saves SerpApi credits while testing and demoing.
