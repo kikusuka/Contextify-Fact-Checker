@@ -229,13 +229,18 @@ tests/                   unit tests for the two search modules
 
 ## AI tools used
 
-- **Gemini** (inside the app): claim extraction and summarising the evidence.
+- **Gemini** (inside the app): claim extraction and summarising the evidence. (API)
 - **Claude (Anthropic):** project planning and help writing and reviewing code.
-- *(Team: each person adds the AI tool you used and for what.)*
+- **Codex (ChatGPT):** sidekick for coding
+- **ChatGPT:** researching problems to solve using serp api
 
 ## Team
 
-*(Add names and roles.)*
+**Boddupalli Pranav**: backend lead for the project **bpranav763@gmail.com**
+**Vutukuri Pranava Shesha Sai**: frontend developer **pranavasheshasai@gmail.com**
+**Suraj Batchu**: fact-check search developer **surajbatchu182@gmail.com**
+**Pramidi Janakiram**: regional news developer **pramidijanakiram@gmail.com**
+**Mogalluru Abhishek**: tester and demo lead **abhishekmogalluru@gmail.com**
 
 ## Licence
 
